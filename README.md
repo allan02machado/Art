@@ -7,8 +7,11 @@ Resposta ao exercício "AsciiArt"
 Exiba a arte abaixo.
 
  ||  || 
+
  \\()// 
+
 //(__)\\
+
 ||    ||
 
 **Como executar**
